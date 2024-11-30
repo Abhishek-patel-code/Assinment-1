@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Itim&family=Rubik+Wet+Paint&display=swap');
+*{
+    font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h2{
+    background-color: #6366f1;
+}
+h1{
+    background-color: #a21caf;
+    color: white;
+}
+img{
+    height: 200px; width:235px
+} 
